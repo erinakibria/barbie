@@ -6,3 +6,5 @@ class P2 {
 	} //main method
 	
 } // class P2
+
+hi
